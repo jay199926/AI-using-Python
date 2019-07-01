@@ -1,6 +1,6 @@
 #Python program for 8-Queen problem
 global N 
-N = 8
+N = 8               // can be changed according to the n queens
   
 def printSolution(board): 
     for i in range(N): 
